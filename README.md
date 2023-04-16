@@ -7,3 +7,9 @@ I searched and found that it can be done by using Powershell Script. So I try to
 What does it do?:
 - Install software automatically from specified directory or from link internet that also has been specified in script.
 - Create log after run the script
+
+<img src="https://github.com/bonifasiustrg/install-sofware-with-pws-script/blob/master/Screenshot%202023-04-16%20153523.png" width=50% height=50%>
+
+log
+<br/>
+<img src="https://github.com/bonifasiustrg/install-sofware-with-pws-script/blob/master/Screenshot%202023-04-16%20154506.png" width=50% height=50%>
